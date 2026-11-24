@@ -2,6 +2,16 @@
 
 一套自包含的 Unity 2D 小游戏开发模板与教程，包含通用组件、演示场景、接入指南和完整工程。
 
+## 万能模板手册
+
+[Unity 2D 万能模板代码与操作手册](docs/Universal2D-Templates.md) 包含 21 段可直接复制的 C# 脚本，覆盖平台跳跃、俯视移动、Flappy、弹射、射击、打地鼠、打砖块和通用规则层。文档从新建脚本、挂组件、拖引用、设置 Tag/Layer 一直讲到 Canvas 按钮和 Build Settings；逐对象 Inspector 面板操作见第 18 节。
+
+- [在线查看 Markdown](docs/Universal2D-Templates.md)
+- [下载 DOCX](docs/Universal2D-Templates.docx)
+- [下载 PDF](docs/Universal2D-Templates.pdf)
+
+手册不依赖仓库里的工程，可以把脚本单独复制到任意 Unity 2D 项目。
+
 ## 下载
 
 下载仓库根目录的 `Unity2D_Game_Dev_Kit.zip`，解压后先看里面的 `README.txt`。
@@ -27,4 +37,4 @@
 
 ## 说明
 
-模板与文档用于学习、练习和快速原型开发。请遵守所在课程或考试的提交规则。
+模板与文档用于学习、练习和快速原型开发；提交作品前请遵守课程或团队的项目规范。
